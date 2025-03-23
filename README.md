@@ -1,0 +1,2 @@
+# Bitcoin_Scripting
+ Bitcoin_Scripting is a comprehensive repository that demonstrates how to interact with Bitcoin Core using Python. It includes detailed examples for managing wallets, constructing, signing, and broadcasting legacy (P2PKH) transactions on regtest, along with decoding and debugging Bitcoin scripts. This project serves as a hands-on guide for understanding blockchain scripting and transaction validation.
